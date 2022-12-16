@@ -1,2 +1,2 @@
 # ilkDeneme Projesi
-Github'a alışmak için ilk çatallanması önerilen deneme proje.
+Github'a alışmak için pull request deneme projesi için oluşturuldu.
