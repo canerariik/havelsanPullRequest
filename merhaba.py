@@ -3,3 +3,5 @@
 print "Merhaba Dunya"
 
 print("This is a simple pull request example project.")
+
+print("Ubuntu uzerinden Pull-Request denemesi.")
